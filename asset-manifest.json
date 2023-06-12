@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Anyar-Future/static/css/main.362e285a.css",
+    "main.js": "/Anyar-Future/static/js/main.15de48ff.js",
+    "static/js/787.7c2005d1.chunk.js": "/Anyar-Future/static/js/787.7c2005d1.chunk.js",
+    "static/media/hero-bg.png": "/Anyar-Future/static/media/hero-bg.f31815b4363a72bdc745.png",
+    "static/media/portfolio-7.jpg": "/Anyar-Future/static/media/portfolio-7.14e52d8ae327742d1f60.jpg",
+    "static/media/about-bg.png": "/Anyar-Future/static/media/about-bg.92884345460cb89b7898.png",
+    "static/media/portfolio-5.jpg": "/Anyar-Future/static/media/portfolio-5.2dcd6723c4f2067cb10a.jpg",
+    "static/media/portfolio-9.jpg": "/Anyar-Future/static/media/portfolio-9.561bb1f26fc76bc36f6c.jpg",
+    "static/media/team-2.jpg": "/Anyar-Future/static/media/team-2.b2008acdf74612d89b8f.jpg",
+    "static/media/team-1.jpg": "/Anyar-Future/static/media/team-1.30c859cd9a02bb5dcc9a.jpg",
+    "static/media/i1.png": "/Anyar-Future/static/media/i1.0e51022fbc4339f5b8ad.png",
+    "static/media/team-3.jpg": "/Anyar-Future/static/media/team-3.ca581ae1628e295ec2a0.jpg",
+    "static/media/i4.png": "/Anyar-Future/static/media/i4.2eb3420de13220b033f6.png",
+    "static/media/portfolio-4.jpg": "/Anyar-Future/static/media/portfolio-4.e99517ec0fc1bb0d2c71.jpg",
+    "static/media/team-4.jpg": "/Anyar-Future/static/media/team-4.525dee063b26d6a44d1d.jpg",
+    "static/media/portfolio-2.jpg": "/Anyar-Future/static/media/portfolio-2.bb58c28684dd06cca3b7.jpg",
+    "static/media/portfolio-6.jpg": "/Anyar-Future/static/media/portfolio-6.c6b9e1909c9c64775807.jpg",
+    "static/media/i3.png": "/Anyar-Future/static/media/i3.37a0783b13899ff3d392.png",
+    "static/media/i2.png": "/Anyar-Future/static/media/i2.2b19ad6a9da799c92332.png",
+    "static/media/portfolio-1.jpg": "/Anyar-Future/static/media/portfolio-1.88a9e07439d191812e5f.jpg",
+    "static/media/portfolio-8.jpg": "/Anyar-Future/static/media/portfolio-8.0d2f076b80c33a7e0269.jpg",
+    "static/media/portfolio-3.jpg": "/Anyar-Future/static/media/portfolio-3.80ecc9ef01cdf62dda3d.jpg",
+    "index.html": "/Anyar-Future/index.html",
+    "main.362e285a.css.map": "/Anyar-Future/static/css/main.362e285a.css.map",
+    "main.15de48ff.js.map": "/Anyar-Future/static/js/main.15de48ff.js.map",
+    "787.7c2005d1.chunk.js.map": "/Anyar-Future/static/js/787.7c2005d1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.362e285a.css",
+    "static/js/main.15de48ff.js"
+  ]
+}
